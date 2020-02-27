@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-md navbar-dark bg-dark shadow-sm p-2">
+<nav class="navbar navbar-expand-md navbar-dark bg-dark shadow-sm p-3">
     <div class="container">
         <a class="navbar-brand" href="{{ url('/') }}">
             <i class="fas fa-blog fa-2x"></i>
